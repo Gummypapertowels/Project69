@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+
+}
+
+.travel_mainDiv img{
+    width: 100x;
+}
+
+.travel mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+}
